@@ -100,7 +100,7 @@ div#social {
   margin-top: 15px;
 }
 
-div#social a{
+div#social a {
 color: var(--destaque);
 transition: color 0.5s;
 }
